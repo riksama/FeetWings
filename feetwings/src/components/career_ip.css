@@ -1,0 +1,30 @@
+.career_sec {
+	padding: 2% 4%;
+	font-weight: 400;
+	font-size: 60px;
+	line-height: 70px;
+}
+
+.Title_ip {
+	border: 0;
+	border-radius: 15px;
+	background-color: #C4C4C480;
+	width: 35%;
+	height: 50px;
+}
+
+.Title_ip::placeholder {
+	font-weight: 300;
+	font-size: 30px;
+	color: black;
+	padding:4% 0 0 1%;
+}
+
+.Emp_type_ip {
+	border: 0;
+	border-radius: 15px;
+	background-color: #C4C4C480;
+	width: 10%;
+	height: 50px;
+	color: white;
+}

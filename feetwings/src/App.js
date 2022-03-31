@@ -1,10 +1,14 @@
 
 import './App.css';
+import Navbar from './components/navbar';
+import Career_Input from './components/career_ip';
+
 
 function App() {
   return (
     <div className="App">
-      I AM PRO, GIVE ME THE JOB
+      <Navbar />
+      <Career_Input />
     </div>
   );
 }
