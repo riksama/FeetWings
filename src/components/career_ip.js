@@ -1,6 +1,6 @@
 import './career_ip.css';
 
-function Career_Input() {
+function CareerInput() {
   const employment_type = [
     "Full Time",
     "Part Time",
@@ -70,4 +70,4 @@ function Career_Input() {
   );
 }
 
-export default Career_Input;
+export default CareerInput;
